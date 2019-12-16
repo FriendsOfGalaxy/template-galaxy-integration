@@ -26,6 +26,8 @@ for example:
 1. create and activate virtual environment
 2. install dependencies
 
-    pip install -r requirements/dev.txt
+        pip install -r requirements/dev.txt
 
-3. contribute
+3. run tests
+
+        pytest
