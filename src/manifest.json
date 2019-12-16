@@ -1,0 +1,11 @@
+{
+    "name": "Example plugin",
+    "platform": "generic",
+    "guid": "da5b2e97-6c86-4761-b6c5-712b7c7e1ba2",
+    "version": "0.1",
+    "description": "Example plugin",
+    "author": "John Doe",
+    "email": "john.doe@email.com",
+    "url": "https://github.com/FriendsOfGalaxy/template-galaxy-integration",
+    "script": "plugin.py"
+}
